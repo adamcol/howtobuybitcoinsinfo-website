@@ -712,3 +712,13 @@ btcchina:
   content:|
     <p> A major Bitcoin exchange based in China.</p>
   coins: [btc]
+  
+quickbtaustralia:
+  countries: [au]
+  location: [au]
+  icon: https://quickbt.com/favicon.ico
+  label: QuickBT
+  url: https://quickbt.com/
+  content:|
+    <p>Instant Bitcoin purchase/payment using your POLi enabled bank account.</p>
+  coins: [btc]
